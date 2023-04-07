@@ -1,0 +1,23 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "The Benefits of Yoga for Mental Health",
+        "body": "Yoga is a great way to reduce stress and anxiety, improve mood, and enhance overall well-being. Practicing yoga regularly can help with managing symptoms of depression and anxiety disorders, and may also have a positive impact on physical health.",
+        "author": "John Smith"
+      },
+      {
+        "id": 2,
+        "title": "How to Start a Successful Online Business",
+        "body": "Starting an online business can be a great way to work for yourself and achieve financial freedom. However, it requires careful planning, hard work, and persistence. Some key steps to starting a successful online business include identifying a profitable niche, building a website or online store, creating a marketing strategy, and providing excellent customer service.",
+        "author": "Jane Doe"
+      },
+      {
+        "id": 3,
+        "title": "The Benefits of Meditation for Stress Relief",
+        "body": "Meditation is a powerful tool for reducing stress and promoting relaxation. It can help improve focus, increase self-awareness, and enhance overall well-being. By incorporating regular meditation practice into your daily routine, you can experience a greater sense of calm and balance in your life.",
+        "author": "Sarah Johnson"
+      }
+    ]
+  }
+  
